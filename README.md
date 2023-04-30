@@ -1,5 +1,3 @@
-# Research Resources
+# Research
 
-## Machine Learning in Quantitative Finance
-
-- [From Data to Trade: A Machine Learning Approach to Quantitative Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315362)
+- [From Data to Trade: A Machine Learning Approach to Quantitative Trading](ssrn_4315362.md)
