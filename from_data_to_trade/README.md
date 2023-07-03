@@ -1,5 +1,7 @@
 # From Data to Trade: A Machine Learning Approach to Quantitative Trading
 
+[Original PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315362)
+
 ## 1.1 Defining Quantitative Trading
 
 ### Types of Quantitative Trading Strategies
@@ -87,5 +89,5 @@
 - Complexity
 
 
-[Source](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315362)
+
 
